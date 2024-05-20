@@ -1,0 +1,46 @@
+/* Test.css */
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+.question-selector {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  text-align: left; 
+  margin: 0 auto; 
+  width: 50%; 
+  margin-top: 30px; 
+}
+
+.question-selector__title {
+  font-size: 19px;
+  margin-bottom: 10px;
+}
+
+.question-selector__list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.question-selector__item {
+  margin-bottom: 10px;
+}
+
+.question-selector__label {
+  display: block;
+  cursor: pointer;
+}
+
+.question-selector__checkbox {
+  margin-right: 10px;
+}
+
+.question-selector__text {
+  vertical-align: middle;
+}

@@ -1,0 +1,172 @@
+{
+  "questions": [
+      {
+          "question": "Що таке присідання у фізичних вправах?",
+          "answers": [
+              {
+                  "answer": "вправа для розвитку грудних мʼязів",
+                  "isCorrect": false
+              },
+              {
+                  "answer": "вправа для розвитку ніг",
+                  "isCorrect": true
+              },
+              {
+                  "answer": "вправа для розвитку рук",
+                  "isCorrect": false
+              },
+              {
+                  "answer": "вправа для розвитку спини",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "question": "Яка мʼязова група працює під час виконання жиму лежачи?",
+          "answers": [
+              {
+                  "answer": "грудні мʼязи",
+                  "isCorrect": true
+              },
+              {
+                  "answer": "ноги",
+                  "isCorrect": false
+              },
+              {
+                  "answer": "руки",
+                  "isCorrect": false
+              },
+              {
+                  "answer": "спина",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "question": "Як правильно виконувати вправу планка?",
+          "answers": [
+              {
+                  "answer": "стоячи на одній нозі",
+                  "isCorrect": false
+              },
+              {
+                  "answer": "лежачи на животі",
+                  "isCorrect": false
+              },
+              {
+                  "answer": "лежачи на спині",
+                  "isCorrect": false
+              },
+              {
+                  "answer": "у опорі на передпліччях та носі",
+                  "isCorrect": true
+              }
+          ]
+      },
+      {
+          "question": "Як називається вправа, яка підвищує швидкість серцебиття?",
+          "answers": [
+              {
+                  "answer": "силова вправа",
+                  "isCorrect": false
+              },
+              {
+                  "answer": "кардіовправа",
+                  "isCorrect": true
+              },
+              {
+                  "answer": "гімнастика",
+                  "isCorrect": false
+              },
+              {
+                  "answer": "йога",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "question": "Що означає поняття повторення у фізичних вправах?",
+          "answers": [
+              {
+                  "answer": "кількість вправ за один підхід",
+                  "isCorrect": true
+              },
+              {
+                  "answer": "кількість підходів до вправи",
+                  "isCorrect": false
+              },
+              {
+                  "answer": "кількість разів, коли вправа виконується правильно",
+                  "isCorrect": false
+              },
+              {
+                  "answer": "кількість хвилин тренування",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "question": "Як правильно дихати під час фізичних навантажень?",
+          "answers": [
+              {
+                  "answer": "повільно та глибоко",
+                  "isCorrect": true
+              },
+              {
+                  "answer": "швидко та поверхнево",
+                  "isCorrect": false
+              },
+              {
+                  "answer": "тільки вдихати під час виконання вправ",
+                  "isCorrect": false
+              },
+              {
+                  "answer": "тільки видихати під час виконання вправ",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "question": "Що таке інтервал відпочинку у тренуваннях?",
+          "answers": [
+              {
+                  "answer": "час між вправами",
+                  "isCorrect": true
+              },
+              {
+                  "answer": "час між тренуваннями",
+                  "isCorrect": false
+              },
+              {
+                  "answer": "час між підходами до вправи",
+                  "isCorrect": false
+              },
+              {
+                  "answer": "час відпочинку після тренування",
+                  "isCorrect": false
+              }
+          ]
+      },
+      {
+          "question": "Яку користь можна отримати від занять кардіо?",
+          "answers": [
+              {
+                  "answer": "покращення роботи серця і судин",
+                  "isCorrect": false
+              },
+              {
+                  "answer": "зменшення стресу",
+                  "isCorrect": false
+              },
+              {
+                  "answer": "підвищення витривалості",
+                  "isCorrect": false
+              },
+              {
+                  "answer": "всі відповіді правильні",
+                  "isCorrect": true
+              }
+          ]
+      }
+  ]
+}
